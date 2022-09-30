@@ -8,3 +8,5 @@ working on some coding this evening Sunday September 25
 today is the 29th of September 2022
 I love devOps 
 I love this class
+I hope the DevOps class is interesting 
+Please, give me feedback after the class.
