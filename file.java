@@ -8,3 +8,4 @@ working on some coding this evening Sunday September 25
 today is the 29th of September 2022
 pleas can we get a better understing the fetch ?
 I hope you all are attentive.
+it seems as if i love DevOps.
